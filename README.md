@@ -19,18 +19,18 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-```l
+```swift
 
            .             ​ pandadev@home 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : PandaOS 
         .lllll.          ​ Kernel : NERD-DEV 9.11 
-       ..;'olll.         ​ WM : Hyprland
+       .sscolll.         ​ WM : Hyprland
       .dolllcccl.        ​ Shell : zsh
      .lcc'   'ccc.       ​ Uptime : 15 years
-    .ccc'     'cc:.      ​ CPU : FusionCore PD-1
-   .cccc'     'c:;..    └───────────────────────────────┘ 
-  ."'             '".     P   A   N   D   A   D   E   V 
+    .ccc'     'ccl.      ​ CPU : FusionCore PD-1
+   .cccc'     'cscl.    └───────────────────────────────┘ 
+  .'`             `'.     P   A   N   D   A   D   E   V 
 
 arch in ~ 
   λ sudo rm -rf *
