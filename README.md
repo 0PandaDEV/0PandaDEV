@@ -6,7 +6,7 @@
   <p align="center">
     <samp>
       <b>
-        🖤 Hey!
+        ⚫ Hey!
       </b>
       <br>
         Web and Java developer founder of <a href="https://github.com/Vleerapp">@Vleerapp</a>, also working at <a href="https://github.com/EpilogueDotSocial">@EpilogueDotSocial</a> and <a href="https://merged.wireway.ch">@MergedMC</a>
