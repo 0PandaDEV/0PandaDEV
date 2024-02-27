@@ -9,7 +9,7 @@
         ⚫ Hey!
       </b>
       <br>
-        Web and Java developer founder of <a href="https://github.com/Vleerapp">@Vleerapp</a>, also working at <a href="https://github.com/EpilogueDotSocial">@EpilogueDotSocial</a> and <a href="https://merged.games">@MergedMC</a>
+        Web and Java developer founder of <a href="https://github.com/Vleerapp">@Vleerapp</a>, also working at <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a> and <a href="https://github.com/MergedGames">@MergedGames</a>
       <br>
       <br>
       <b>
