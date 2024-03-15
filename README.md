@@ -19,7 +19,7 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-```swift
+```s
 
            .             ​ pandadev@home 
           .c.           ┌───────────────────────────────┐ 
