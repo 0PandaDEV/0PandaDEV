@@ -27,7 +27,7 @@
         .lllll.          ​ Kernel : NERD-DEV 9.11 
        .sscolll.         ​ WM : Hyprland
       .dolllcccl.        ​ Shell : zsh
-     .lcc'   'ccc.       ​ Uptime : 15 years
+     .lcc'   'ccc.       ​ Uptime : 16 years
     .ccc'     'ccl.      ​ CPU : FusionCore PD-1
    .cccc'     'cscl.    └───────────────────────────────┘ 
   .'`             `'.     P   A   N   D   A   D   E   V 
