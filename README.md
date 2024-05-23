@@ -7,7 +7,7 @@
         ⚫ Hey!
       </b>
       <br>
-        Web and Java developer founder of <a href="https://github.com/vleerapp">@vleerapp</a>, also working at <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a> and <a href="https://github.com/MergedGames">@MergedGames</a>.<br>You can learn more about what i do on <a href="https://blocks.pandadev.net">Blocks</a>
+        Web and Java developer founder of <a href="https://github.com/vleerapp">@vleerapp</a>, also working at <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a> and <a href="https://github.com/MergedGames">@MergedGames</a>.<br>You can learn more about what I in my day to day life on <a href="https://blocks.pandadev.net">Blocks</a>
       <br>
       <br>
       <a href="https://ko-fi.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-323842?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
@@ -18,7 +18,6 @@
       <b>
          ~ PandaDEV ~
       </b>
-      <br>
       <br>
     </samp>
   </p>
