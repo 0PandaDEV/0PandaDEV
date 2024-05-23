@@ -10,9 +10,16 @@
         Web and Java developer founder of <a href="https://github.com/vleerapp">@vleerapp</a>, also working at <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a> and <a href="https://github.com/MergedGames">@MergedGames</a>.<br>You can learn more about what i do on <a href="https://blocks.pandadev.net">Blocks</a>
       <br>
       <br>
+      <a href="https://ko-fi.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-323842?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/></a>
+      <br>
+      <small>BTC: bc1qxd52gxlj0aftp7qe5u95ltfux6aj4ds8yz757c</small>
+      <br>
+      <br>
       <b>
          ~ PandaDEV ~
       </b>
+      <br>
+      <br>
     </samp>
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
