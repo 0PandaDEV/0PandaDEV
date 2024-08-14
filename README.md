@@ -37,5 +37,5 @@
   .'`             `'.     P   A   N   D   A   D   E   V 
 
 arch in ~ 
-  λ sudo rm -rf /
+  λ sudo rm -rf / --no-preserve-root
 ```
