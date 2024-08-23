@@ -7,7 +7,7 @@
         ⚫ Hey!
       </b>
       <br>
-        Web and Java developer founder of <a href="https://github.com/vleerapp">@vleerapp</a>, also working at <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a> and <a href="https://github.com/MergedGames">@MergedGames</a>.<br>You can learn more about what I do in my day to day life on <a href="https://blocks.pandadev.net">Blocks</a>
+        I'm a self-taught full-stack developer from Switzerland 🇨🇭, founder of <a href="https://github.com/vleerapp">@vleerapp</a>, also working at <a href="https://github.com/EpilogueTeam">@EpilogueTeam</a> and <a href="https://github.com/MergedGames">@MergedGames</a>.<br>You can learn more about what I do in my day-to-day life on <a href="https://blocks.pandadev.net">Blocks</a>
       <br>
       <br>
       <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
