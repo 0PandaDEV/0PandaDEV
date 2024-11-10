@@ -28,7 +28,7 @@
            .             ​ pandadev@home 
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : PandaOS 
-        .lllll.          ​ Kernel : VERY-GOOD 9.11 
+        .lllll.          ​ Kernel : VERY-GOOD 7.87
        .sscolll.         ​ WM : Hyprland
       .dolllcccl.        ​ Shell : zsh
      .lcc'   'ccc.       ​ Uptime : 16 years
