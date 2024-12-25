@@ -32,7 +32,7 @@
        .sscolll.         ​ WM : Hyprland
       .dolllcccl.        ​ Shell : zsh
      .lcc'   'ccc.       ​ Uptime : 16 years
-    .ccc'     'ccl.      ​ CPU : IAmRich PD-1
+    .ccc'     'ccl.      ​ CPU : DownUndaaa-01FK
    .cccc'     'cscl.    └───────────────────────────────┘ 
   .'`             `'.     P   A   N   D   A   D   E   V 
 
