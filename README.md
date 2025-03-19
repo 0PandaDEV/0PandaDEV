@@ -23,7 +23,7 @@
   </p>
 <p align="right"><strong><samp><i>」</i></samp></strong></p>
 
-```s
+```n
 
            .             ​ pandadev@home 
           .c.           ┌───────────────────────────────┐ 
