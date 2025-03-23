@@ -31,7 +31,7 @@
         .lllll.          ​ Kernel : VERY-GOOD 7.87
        .sscolll.         ​ WM : Hyprland
       .dolllcccl.        ​ Shell : zsh
-     .lcc'   'ccc.       ​ Uptime : 16 years
+     .lcc'   'ccc.       ​ Uptime : 17 years
     .ccc'     'ccl.      ​ CPU : DownUndaaa-01FK
    .cccc'     'cscl.    └───────────────────────────────┘ 
   .'`             `'.     P   A   N   D   A   D   E   V 
