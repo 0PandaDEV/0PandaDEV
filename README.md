@@ -7,7 +7,7 @@
         ⚫ Grüezi!
       </b>
       <br>
-        I'm a self-taught 17-year-old developer from Switzerland 🇨🇭, focusing on frontend web development, UI design, and Rust. I'm working at <a href="https://github.com/epilogueteam">Epilogue</a> and <a href="https://github.com/mergedgames">Merged</a>. You can find my top projects under the pinned section down below.</a>.
+        I'm a 17-year-old self-taught developer from Switzerland 🇨🇭, specialized in full-stack web development as well as UI/UX design. <br>Co-founded <a href="https://github.com/epilogueteam">Epilogue</a>. You can find my top projects under the pinned section down below.
       <br>
       <br>
       <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
