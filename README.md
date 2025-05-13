@@ -7,7 +7,7 @@
         ⚫ Grüezi!
       </b>
       <br>
-        I'm a self-taught 17-year-old developer from Switzerland 🇨🇭, focusing on frontend web development, UI design, and Rust. I'm the founder of <a href="https://github.com/vleerapp">Vleer</a>, also working at <a href="https://github.com/epilogueteam">Epilogue</a> and <a href="https://github.com/mergedgames">Merged</a>. You can explore my projects on my <a href="https://pandadev.net/projects">portfolio</a>.
+        I'm a self-taught 17-year-old developer from Switzerland 🇨🇭, focusing on frontend web development, UI design, and Rust. You can find my top projects under the pinned section down below. I'm working at <a href="https://github.com/epilogueteam">Epilogue</a> and <a href="https://github.com/mergedgames">Merged</a>. You can explore my projects on my <a href="https://pandadev.net/projects">portfolio</a>.
       <br>
       <br>
       <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
