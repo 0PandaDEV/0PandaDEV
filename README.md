@@ -7,10 +7,12 @@
         ⚫ Grüezi!
       </b>
       <br>
-        I'm a 17-year-old self-taught developer from Switzerland 🇨🇭, specialized in full-stack web development as well as UI/UX design. <br>Co-founded <a href="https://github.com/epilogueteam">Epilogue</a>. You can find my top projects under the pinned section down below.
+        I'm a 17-year-old self-taught developer from Switzerland 🇨🇭, specialized in full-stack web development as well as UI/UX design. Co-founded <a href="https://github.com/epilogueteam">Epilogue</a>. You can find my top projects under the pinned section down below.
       <br>
       <br>
       <small>BTC: bc1qxd52gxlj0aftp7qe5u95ltfux6aj4ds8yz757c</small>
+      <br>
+      <small>GPG: F75AAADFDAF9726A9BE22E4B0C21F8C889EB53E3</small>
       <br>
       <br>
       <b>
