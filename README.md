@@ -12,7 +12,7 @@
       <br>
       <small>BTC: bc1qxd52gxlj0aftp7qe5u95ltfux6aj4ds8yz757c</small>
       <br>
-      <small>GPG: F75AAADFDAF9726A9BE22E4B0C21F8C889EB53E3</small>
+      <small>GPG: <a href="https://pandadev.net/pgp-key.asc">F75AAADFDAF9726A9BE22E4B0C21F8C889EB53E3<a/></small>
       <br>
       <br>
       <b>
