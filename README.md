@@ -7,7 +7,7 @@
         ⚫ Grüezi!
       </b>
       <br>
-        I'm a 17-year-old self-taught developer from Switzerland 🇨🇭, specialized in full-stack web development as well as UI/UX design. Co-founded <a href="https://github.com/epilogueteam">Epilogue</a>. You can find my top projects under the pinned section down below.
+        I'm a 18-year-old self-taught developer from Switzerland 🇨🇭, specialized in full-stack web development as well as UI/UX design. Co-founded <a href="https://github.com/epilogueteam">Epilogue</a>. You can find my top projects under the pinned section down below.
       <br>
       <br>
       <small>BTC: bc1qxd52gxlj0aftp7qe5u95ltfux6aj4ds8yz757c</small>
@@ -31,7 +31,7 @@
         .lllll.          ​ Kernel : VERY-GOOD 7.87
        .sscolll.         ​ WM : Hyprland
       .dolllcccl.        ​ Shell : zsh
-     .lcc'   'ccc.       ​ Uptime : 17 years
+     .lcc'   'ccc.       ​ Uptime : 18 years
     .ccc'     'ccl.      ​ CPU : DownUndaaa-01FK
    .cccc'     'cscl.    └───────────────────────────────┘ 
   .'`             `'.     P   A   N   D   A   D   E   V 
