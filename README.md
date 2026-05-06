@@ -29,7 +29,7 @@
           .c.           ┌───────────────────────────────┐ 
          .ccc.           ​ OS : PandaOS 
         .lllll.          ​ Kernel : VERY-GOOD 7.87
-       .sscolll.         ​ WM : Hyprland
+       .sscolll.         ​ WM : Niri
       .dolllcccl.        ​ Shell : zsh
      .lcc'   'ccc.       ​ Uptime : 18 years
     .ccc'     'ccl.      ​ CPU : DownUndaaa-01FK
